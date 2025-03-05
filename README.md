@@ -1,3 +1,10 @@
+
+incode-test-task
+This is incode test task. Thanks for this expiriense. I am very sorry, I was not succsessful of all points of task, but I would be very grateful for your feedback
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
